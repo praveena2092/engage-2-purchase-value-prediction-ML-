@@ -108,7 +108,7 @@ make test
 
 ## Acknowledgements
 
-Competition and data by the IIT Madras BS Degree program on Kaggle. Please follow the competition rules: do not commit the data.
+Competition and data by the IIT Madras BS Degree program on Kaggle.
 
 ## License
 
