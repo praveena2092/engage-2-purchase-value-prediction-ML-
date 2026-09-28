@@ -112,4 +112,4 @@ Competition and data by the IIT Madras BS Degree program on Kaggle. Please follo
 
 ## License
 
-MIT - see [LICENSE](LICENSE). Replace `<Your Name>` in the license before publishing.
+MIT - see [LICENSE](LICENSE).
