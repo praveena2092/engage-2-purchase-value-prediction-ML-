@@ -1,0 +1,24 @@
+# Competition data & outputs (do not redistribute Kaggle data)
+data/raw/*
+!data/raw/.gitkeep
+submissions/*
+!submissions/.gitkeep
+*.csv
+
+# Secrets
+.env
+kaggle.json
+
+# Python / notebooks
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.venv/
+venv/
+*.egg-info/
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
