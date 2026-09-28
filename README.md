@@ -1,4 +1,4 @@
-# Engage 2: Predicting Purchase Value from Clicks to Conversions
+# Engage 2 value: Predicting Purchase Value from Clicks to Conversions
 
 ![Python](https://img.shields.io/badge/python-3.11%2B-blue)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-pipeline-f7931e)
